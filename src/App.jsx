@@ -1,4 +1,4 @@
-import { useGlobalContext } from "./context.jsx";
+import { useGlobalContext } from "./context";
 import Gallery from "./Gallery";
 import SearchForm from "./SearchForm";
 import ThemeToggle from "./ThemeToggle";
