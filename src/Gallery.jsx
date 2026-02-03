@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useGlobalContext } from "./context";
+import { useGlobalContext } from "./Context";
 import { customFetch } from "./customAxios";
 
 const Gallery = () => {
