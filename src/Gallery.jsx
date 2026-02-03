@@ -30,7 +30,7 @@ const Gallery = () => {
         </section>
     }
 
-    console.log(images);
+    // console.log(images);
 
     return (<section className="image-container">
         {
